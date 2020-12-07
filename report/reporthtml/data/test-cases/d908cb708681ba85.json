@@ -1,0 +1,67 @@
+{
+  "uid" : "d908cb708681ba85",
+  "name" : "test_5",
+  "fullName" : "test_case.test_case_02#test_5",
+  "historyId" : "d5ce207f813045c06091b1da5e166e54",
+  "time" : {
+    "start" : 1607071028047,
+    "stop" : 1607071028048,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c95003d06bcf9fe5",
+      "name" : "stdout",
+      "source" : "c95003d06bcf9fe5.txt",
+      "type" : "text/plain",
+      "size" : 7
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_case_02"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-UDME04BU"
+  }, {
+    "name" : "thread",
+    "value" : "25160-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_case_02"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d908cb708681ba85.json",
+  "parameterValues" : [ ]
+}
